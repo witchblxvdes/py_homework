@@ -2,7 +2,7 @@
 
 A Python application designed to dynamically inspect and analyze Python objects using introspection and reflection.
 
-This project was developed as part of a Python programming course (Homework 13).
+This project was developed as part of a Python programming course.
 
 ## Features
 
